@@ -84,7 +84,7 @@ const Intro = () => {
             I’m a 3rd-year CSBS student and Google Project Management certified professional.
             Passionate about frontend development, media, and creative storytelling.
             Currently leading media initiatives at Ignite Forum and building my way through
-            the tech world, one project at a time.
+            the tech world.
           </p>
         </div>
       </div>
